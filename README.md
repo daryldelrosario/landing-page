@@ -10,7 +10,6 @@ This project was designed to work on basic HTML and CSS skills.
 
 The main objective was to create a website that closely replicated the design and color template provided in the requirements as seen below:   
    
-
 <img src="img/website-template.png" 
     alt="Web Design for this Project" 
     height="250px" style="padding: 16px">
@@ -23,7 +22,15 @@ The main objective was to create a website that closely replicated the design an
 
 ## Lessons Learnt
 ### HTML
-*    
+* Creating boilerplate
+* Elements: Inline, Block
+* `<img>` requires `src` and `alt` attributes
    
 ### CSS
-* 
+* Flexbox model
+* Using element and class declarations to style
+* Variety of font, alignment and spacing attributes
+
+## Live Preview: https://livedemo.com
+
+# Updates:
