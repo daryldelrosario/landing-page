@@ -1,5 +1,5 @@
 # Landing Page: HTML and CSS Technical Project
-Live Demo: https://livedemo.com
+Live Demo: https://daryldelrosario.github.io/project-landing-page/
 
 ## Acknowledgements
 * The Odin Project: https://theodinproject.com
