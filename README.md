@@ -27,6 +27,7 @@ The main objective was to create a website that closely replicated the design an
 * Creating boilerplate
 * Elements: Inline, Block
 * `<img>` requires `src` and `alt` attributes
+* `&copy` is HTML for Copyright symbol &copy;
    
 ### CSS
 * Flexbox model
