@@ -36,3 +36,4 @@ The main objective was to create a website that closely replicated the design an
 
 ## Updates:
 ### October 20, 2022
+* 338pm: Completed Project Landing Page, mock website
