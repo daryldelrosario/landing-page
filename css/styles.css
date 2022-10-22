@@ -220,3 +220,16 @@ a {
     color: #F9FAF8;
     padding: 6px 24px 6px 24px;
 }
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-text {
+    color: white;
+    font-size: 13px;
+    padding: 32px;
+}
