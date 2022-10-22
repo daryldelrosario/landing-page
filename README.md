@@ -1,4 +1,6 @@
 # Landing Page: HTML and CSS Technical Project
+Live Demo: https://livedemo.com
+
 ## Acknowledgements
 * The Odin Project: https://theodinproject.com
 
@@ -31,6 +33,5 @@ The main objective was to create a website that closely replicated the design an
 * Using element and class declarations to style
 * Variety of font, alignment and spacing attributes
 
-## Live Preview: https://livedemo.com
-
-# Updates:
+## Updates:
+### October 20, 2022
