@@ -11,13 +11,17 @@ https://www.theodinproject.com/lessons/foundations-landing-page
 This project was designed to work on basic HTML and CSS skills.   
 
 The main objective was to create a website that closely replicated the design and color template provided in the requirements as seen below:   
-   
+
+<kbd>   
 <img src="img/website-template.png" 
     alt="Web Design for this Project" 
     height="250px" style="padding: 16px">
+</kbd>
+<kbd>
 <img src="img/color-fonts.png" 
     alt="Color Palette for Website" 
     height="250px" style="padding: 16px">
+</kbd>
 
 ## Technologies
 * HTML and CSS
